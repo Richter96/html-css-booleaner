@@ -8,3 +8,26 @@ header {
     background-color: #4ea0ff;
 
 }
+
+h1 {   
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+h5{
+    color: #848484;
+}
+
+a{
+    color: #3cb6e9;
+    text-decoration: none;
+}
+
+.tim {
+    margin-top: 20px;
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
