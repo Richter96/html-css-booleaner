@@ -47,3 +47,27 @@ section {
 table{
     border-spacing: unset;
 }
+
+.odd {
+    background-color: #91defffb;
+}
+
+.bigbox {
+    width: 60%;
+}
+
+.img_monitor {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.img_graph {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
+.footer {
+    color: white;
+}
