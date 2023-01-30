@@ -1,0 +1,94 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+#logo {
+ width: 350px;
+ padding-top: 5%;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+}
+
+h1 {   
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+h5{
+    color: #848484;
+}
+
+.tim_description {
+    margin-top: 20px;
+}
+
+h5 a{
+    color: #3cb6e9;
+    text-decoration: none;
+}
+
+.tim {
+    margin-top: 20px;
+}
+
+section {
+    margin: 10px;
+}
+
+.list-tim ul {
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+#head{
+    background-color: #1aabe6;
+    color: white;
+    text-align: left;
+}
+
+table{
+    border-spacing: unset;
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.odd {
+    background-color:#b2e6f2;
+}
+
+.bigbox {
+    width: 60%;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+    background-size: auto;
+    margin: 5px;
+}
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph {
+    background-image: url(../img/graph.jpg);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
